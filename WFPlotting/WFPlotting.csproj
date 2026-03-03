@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <NoWarn>$(NoWarn);SYSLIB1054;IDE0011;IDE0290;IDE0057;CA1859</NoWarn>
+
+    <PackageId>WFPlotting</PackageId>
+    <PackageVersion>0.0.1</PackageVersion>
+    <Title>WFPlotting</Title>
+    <Authors>Wolfgang Foerster</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/wolfoerster/WFPlotting</PackageProjectUrl>
+    <Description>2D and 3D plotting library based on Windows Presentation Foundation</Description>
+    <PackageReleaseNotes>Initial version</PackageReleaseNotes>
+    <Copyright>Copyright © Wolfgang Foerster (wolfoerster@gmx.de)</Copyright>
+    <PackageTags>WPF;2D;3D;Plotting</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+</Project>

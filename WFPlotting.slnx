@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Files/">
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="WFPlotting/WFPlotting.csproj" />
+</Solution>
