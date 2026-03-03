@@ -15,7 +15,7 @@
     <PackageProjectUrl>https://github.com/wolfoerster/WFPlotting</PackageProjectUrl>
     <Description>2D and 3D plotting library based on Windows Presentation Foundation</Description>
     <PackageReleaseNotes>Initial version</PackageReleaseNotes>
-    <Copyright>Copyright © Wolfgang Foerster (wolfoerster@gmx.de)</Copyright>
+    <Copyright>Copyright © 2026 Wolfgang Foerster (wolfoerster@gmx.de)</Copyright>
     <PackageTags>WPF;2D;3D;Plotting</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
